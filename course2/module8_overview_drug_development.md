@@ -155,8 +155,7 @@ flowchart TD
     D --> E[Phase III]
     E --> F[Post-Marketing Trials IV ]
 
-    classDef phase fill:#e0f7fa,stroke:#00bcd4,stroke-width:2px;
-    class A,B,C,D,E,F phase;
+   
 ```
 
 #### Table 1. Phases of FDA-Regulated Clinical Trials
