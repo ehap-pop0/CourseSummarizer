@@ -33,8 +33,8 @@ graph TD
     A -->|ICH E6| H[Sponsor: Risk-Based Quality Management]
     A -->|FDA| I[Sponsor: Basic Monitoring Responsibilities]
 
-    classDef chartStyle fill:#e3f2fd,stroke:#2196f3,stroke-width:2px;
-    class A,B,C,D,E,F,G,H,I chartStyle;
+    
+    
 ```
 
 ---
@@ -61,8 +61,7 @@ graph LR
     A --> D[IRB/IEC Access]
     A --> E[Regulatory Authority Access]
 
-    classDef chartStyle fill:#ffebee,stroke:#e53935,stroke-width:2px;
-    class A,B,C,D,E chartStyle;
+    
 ```
 
 - **FDA Regulation:**
@@ -108,8 +107,7 @@ graph LR
     B --> E[Centralized Monitoring]
     B --> F[Hybrid Monitoring]
 
-    classDef chartStyle fill:#e8f5e9,stroke:#4caf50,stroke-width:2px;
-    class A,B,C,D,E,F chartStyle;
+  
 ```
 
 ---
