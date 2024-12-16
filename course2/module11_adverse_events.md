@@ -26,8 +26,7 @@ graph TD
     A --> D[Serious Adverse Event SAE]
     A --> E[Unexpected Adverse Drug Reaction]
     
-    classDef eventStyle fill:#e8f5e9,stroke:#4caf50,stroke-width:2px;
-    class A,B,C,D,E eventStyle;
+
 ```
 
 #### Detecting Adverse Events
@@ -53,8 +52,7 @@ graph LR
     X[Change from Baseline] --> Y[New Symptom or Sign]
     X --> Z[Increased Severity/Frequency of Existing Symptom]
 
-    classDef baselineStyle fill:#fff3e0,stroke:#ff9800,stroke-width:2px;
-    class X,Y,Z baselineStyle;
+
 ```
 
 #### Sources of Information About AEs
@@ -82,8 +80,7 @@ graph TD
     A --> C[Determine Severity]
     A --> D[Use Protocol Terminology]
 
-    classDef recordStyle fill:#ede7f6,stroke:#673ab7,stroke-width:2px;
-    class A,B,C,D recordStyle;
+
 ````
 
 ### Module 11: Detecting and Evaluating Adverse Events (ID 14623) - Part 2
@@ -117,8 +114,7 @@ graph LR
     A --> E[Life-Threatening]
     A --> F[Fatal]
 
-    classDef severityStyle fill:#fbe9e7,stroke:#ff5722,stroke-width:2px;
-    class A,B,C,D,E,F severityStyle
+  
 
 ```
 
@@ -142,8 +138,7 @@ graph TD
     A --> D[Known Drug Effects]
     A --> E[Re-Challenge]
 
-    classDef causalityStyle fill:#e8f5e9,stroke:#4caf50,stroke-width:2px;
-    class A,B,C,D,E causalityStyle;
+
 ```
 
 #### Categories of Causality
