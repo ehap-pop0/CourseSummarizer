@@ -47,9 +47,7 @@ graph TD
     A --> G[MeDRA Management Committee]
     A --> H[Working Groups]
 
-    classDef structure fill:#e3f2fd,stroke:#2196f3,stroke-width:2px,rx:5px,ry:5px;
-    class A,B,C,D,E,F,G,H structure;
-
+    
 ```
 ---
 
