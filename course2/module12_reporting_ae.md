@@ -22,8 +22,7 @@ graph TD
     A --> D[Serious Adverse Event]
     A --> E[Unexpected Adverse Event]
 
-    classDef definitionStyle fill:#e8f5e9,stroke:#4caf50,stroke-width:2px;
-    class A,B,C,D,E definitionStyle;
+   
 ```
 ---
 
@@ -58,8 +57,7 @@ graph LR
     A --> C[Non-Serious AE: Per Protocol]
     A --> D[Follow-Up Reports: Promptly]
 
-    classDef reportStyle fill:#fff3e0,stroke:#ff9800,stroke-width:2px;
-    class A,B,C,D reportStyle;
+   
 ```
 
 ---
@@ -103,8 +101,7 @@ graph TD
     C --> D[15 Days: Serious, Unexpected AEs]
     C --> E[7 Days: Fatal/Life-Threatening AEs]
 
-    classDef sponsorStyle fill:#e3f2fd,stroke:#2196f3,stroke-width:2px;
-    class A,B,C,D,E sponsorStyle;
+    
 ```
 
 ---
@@ -125,8 +122,7 @@ graph TD
     B --> C[Evaluate Accumulated Data]
     C --> D[Report Safety Information]
 
-    classDef monitorStyle fill:#e0f7fa,stroke:#00acc1,stroke-width:2px;
-    class A,B,C,D monitorStyle;
+    
 ```
 
 **Key Sponsor Reporting Timelines:**
@@ -155,8 +151,7 @@ graph LR
     A --> C[Serious]
     A --> D[Study Implications]
 
-    classDef problemStyle fill:#f3e5f5,stroke:#8e24aa,stroke-width:2px;
-    class A,B,C,D problemStyle;
+  
 ```
 
 #### Bioavailability (BA) and Bioequivalence (BE) Studies
