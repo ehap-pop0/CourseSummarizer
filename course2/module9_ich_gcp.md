@@ -81,9 +81,7 @@ flowchart TD
     G --> H[Investigator's Brochure]
     H --> I[Essential Documents]
 
-    classDef sections fill:#e8f5e9,stroke:#4caf50,stroke-width:2px,rx:5px,ry:5px;
-    class A,B,C,D,E,F,G,H,I sections;
-
+    
 ```
 
 ICH has developed over sixty (60) guidelines to date in four categories: Quality, Safety, Efficacy, and Multidisciplinary Topics.
@@ -205,8 +203,7 @@ graph LR
     A -->|ICH E6| F[Sponsor Verifies IRB Compliance with GCP]
     A -->|FDA| G[Sponsor Verifies IRB Approval]
 
-    classDef comparison fill:#f3e5f5,stroke:#9c27b0,stroke-width:2px,rx:5px,ry:5px;
-    class A,B,C,D,E,F,G comparison;
+ 
 
 ```
 ---
